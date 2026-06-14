@@ -23,7 +23,7 @@ Resume Screening AI is a Python-based application that automatically analyzes re
 8. Generate candidate summary reports
 
 
-## Tech
+## Tools Used
 
 * Python 
 
